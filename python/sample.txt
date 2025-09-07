@@ -1,0 +1,6 @@
+Hello World How are you
+My name is Pritam
+I am a DevOps Engineer with 12 years of work exprrience
+I do have experience in DevOps, DevSecOps, SRE, Plartform Engineering.
+ALong with that I am also the part of AIOPS and MLOPS for CICD AI integration
+So that means Pritam knowns GEn AI along with the Agentic AI

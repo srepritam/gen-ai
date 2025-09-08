@@ -1,0 +1,4 @@
+This is my source file
+which will be copied.
+All content of this file will be copied to the
+destination file.
